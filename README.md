@@ -22,7 +22,7 @@ Goal: Learning ML + deployment, not medical accuracy
 <br>
 
 ```
-git clone https://github.com/SahilAGowda/Hepatitis-Disease-Risk-Prediction.git
+git clone https://github.com/ranjithgowda2004/Hepatitis-Disease-Risk-Prediction.git
 cd Hepatitis-Disease-Risk-Prediction
 pip install -r requirements.txt
 python hepatitis_prediction_ml_model.py
